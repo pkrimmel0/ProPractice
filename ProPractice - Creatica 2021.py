@@ -1,8 +1,8 @@
 #Creatica 2021
 
 #This program lets trans and non-binary individuals try out new names and pronouns that they are considering using.
-#The program has two different scripts depending on pronouns entered in order to stay gramatically correct.
-#In addition, the program accomidates for many neo-pronouns, as well as usere who don't use pronouns, and will run no matter what pronouns are entered 
+#The program has two different scripts depending on pronouns entered in order to stay grammatically correct.
+#In addition, the program accommodates for many neo-pronouns, as well as users who don't use pronouns, and will run no matter what pronouns are entered 
 
 
 loop = 'Yes'
